@@ -823,5 +823,5 @@ def center_window(window, width=None, height=None):
 if __name__ == "__main__":
     root = tk.Tk()
     app = DeduplicationApp(root)
-    center_window(root, 800, 600)
+    center_window(root, 800, 650)
     root.mainloop()
