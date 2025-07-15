@@ -49,7 +49,7 @@ import shutil
 class DeduplicationApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("leyinsec文件去重工具")
+        self.root.title("FTD文件去重工具")
         self.root.geometry("800x600")
         self.root.resizable(True, True)
 
@@ -76,7 +76,7 @@ class DeduplicationApp:
 
         title_label = tk.Label(
             header_frame,
-            text="▣ leiynsec文件去重工具",
+            text="▣ FTD文件去重工具",
             font=("微软雅黑", 16, "bold"),
             bg=self.header_color,
             fg="white",
@@ -336,7 +336,7 @@ class DeduplicationApp:
 
         tk.Label(
             copyright_frame,
-            text="© 2025 leyinsec文件去重工具 v1.0 | 支持: TXT, DOC, DOCX, XLS, XLSX",
+            text="© 2025 FTD文件去重工具 v1.0 | 支持: TXT, DOC, DOCX, XLS, XLSX",
             bg=self.bg_color,
             fg="#95a5a6",
             font=("微软雅黑", 8)
