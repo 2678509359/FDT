@@ -1,12 +1,12 @@
 # FDT
-文本去重工具介绍与使用指南
+FTD去重工具介绍与使用指南
 
 中文介绍
 
-文本去重工具 - 多格式文件智能处理
+FTD去重工具 - 多格式文件智能处理
 
 工具简介  
-文本去重工具是一款功能强大的图形界面应用程序，专门用于处理各种格式文件中的重复内容。它支持多种常见文件格式，包括TXT文本文件、Word文档（DOC/DOCX）和Excel表格（XLS/XLSX），无需安装Microsoft Office即可使用。
+FTD去重工具是一款功能强大的图形界面应用程序，专门用于处理各种格式文件中的重复内容。它支持多种常见文件格式，包括TXT文本文件、Word文档（DOC/DOCX）和Excel表格（XLS/XLSX），无需安装Microsoft Office即可使用。
 
 核心功能  
 • 多格式支持：智能识别并处理多种文件格式
@@ -24,7 +24,7 @@
 
 • 日志文件分析
 
-• 文本内容优化
+• FTD内容优化
 
 • 数据库导出处理
 
@@ -41,11 +41,11 @@
      
 
 2. 启动工具
-   • 将脚本保存为deduplicate_gui.py
+   • 将脚本保存为FTD.py
 
    • 运行命令：
 
-     python deduplicate_gui.py
+     python FTD.py
      
 
 3. 操作步骤
@@ -67,10 +67,10 @@
 
 English Introduction
 
-Text Deduplication Tool - Intelligent Multi-Format File Processing
+FTD Deduplication Tool - Intelligent Multi-Format File Processing
 
 Tool Overview  
-The Text Deduplication Tool is a powerful GUI application designed to remove duplicate content from various file formats. It supports multiple common file types including TXT text files, Word documents (DOC/DOCX), and Excel spreadsheets (XLS/XLSX), all without requiring Microsoft Office installation.
+The FTD Deduplication Tool is a powerful GUI application designed to remove duplicate content from various file formats. It supports multiple common file types including TXT text files, Word documents (DOC/DOCX), and Excel spreadsheets (XLS/XLSX), all without requiring Microsoft Office installation.
 
 Key Features  
 • Multi-format support: Intelligently recognizes and processes various file formats
@@ -105,11 +105,11 @@ Usage Instructions
      
 
 2. Launching the Tool
-   • Save the script as deduplicate_gui.py
+   • Save the script as FTD.py
 
    • Run the command:
 
-     python deduplicate_gui.py
+     python FTD.py
      
 
 3. Operation Steps
